@@ -9,6 +9,7 @@ const CounterApp = () => {
             counter2 : 0 
         }) */
 
+        console.log("Hello");
         const [counter1,setCounter1] = useState(0)
         const [counter2,setCounter2] = useState(0)
 
